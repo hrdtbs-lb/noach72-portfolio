@@ -15,3 +15,8 @@
 - html コピーして増やす
 - ターミナル　 npm install 　 → 　 npm ~ で package.json の scripts の中身の実行
 - img src の中に日本語を使わない
+
+## 次やること
+
+- 追加した写真のサイズを調整
+- 写真の並べ方を工夫する
