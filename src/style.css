@@ -103,11 +103,11 @@ textarea {
   height: 6rem;
 }
 input[type="submit"] {
+  padding: 18px 32px;
   color: rgb(255, 255, 255);
   background-color: rgb(8, 131, 247);
   border-radius: 5px;
-  padding: 18px 32px;
-  border: none;
-  cursor: pointer;
   line-height: 1;
+  cursor: pointer;
+  border: none;
 }
