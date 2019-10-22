@@ -51,8 +51,8 @@ img {
 
 .wrapper {
   max-width: 1100px;
-  margin: 0 auto;
   padding: 0.3%;
+  margin: 0 auto;
 }
 
 form div {
@@ -75,8 +75,6 @@ textarea {
   background: rgba(255, 255, 255, 0.5);
   border: 1px black solid;
   border-radius: 5px;
-  padding: 10px;
-  font-size: 1rem;
 }
 input[type="text"],
 input[type="e-mail"] {
@@ -104,10 +102,10 @@ textarea {
 }
 input[type="submit"] {
   padding: 18px 32px;
-  color: rgb(255, 255, 255);
-  background-color: rgb(8, 131, 247);
-  border-radius: 5px;
   line-height: 1;
+  color: rgb(255, 255, 255);
   cursor: pointer;
+  background-color: rgb(8, 131, 247);
   border: none;
+  border-radius: 5px;
 }
