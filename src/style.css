@@ -89,10 +89,11 @@ input[type="e-mail"] {
   border: 2px solid gray;
   outline: 0;
 }
-​ .name:focus {
+​.name:focus {
   border-color: coral;
 }
-​ .name:invalid {
+
+​.name:invalid {
   border-color: red;
 }
 
